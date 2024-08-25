@@ -1,0 +1,4 @@
+video del proyecto: https://www.youtube.com/watch?v=5wWA69U4HOk&t=1233s
+se uso router-react-dom
+la api de const API_ENDPOINT = "https://www.omdbapi.com/?apikey=d29d2e93"
+githiub https://github.com/garu2/Search-Movies-React
